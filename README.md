@@ -13,8 +13,11 @@ I decided to compare three different types of machine learning models to see whi
 *   **Analysis:** I didn't just look at accuracy; I generated a **Confusion Matrix** to see if my model was accidentally banning legitimate players (False Positives) and an **ROC Curve** to measure the overall strength of the predictions.
 
 
-<img width="581" height="490" alt="image" src="https://github.com/user-attachments/assets/973ba52d-4314-48b4-be34-7e87613f3d4b" />
-<img width="941" height="584" alt="image" src="https://github.com/user-attachments/assets/b6ac6ee7-4a86-4de4-82f1-2370c62a12c3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/973ba52d-4314-48b4-be34-7e87613f3d4b" width="48%" />
+  <img src="https://github.com/user-attachments/assets/b6ac6ee7-4a86-4de4-82f1-2370c62a12c3" width="48%" />
+</p>
+
 
 
 ## How to Run It
