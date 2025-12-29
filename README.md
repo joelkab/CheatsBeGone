@@ -27,6 +27,7 @@ Make sure you have the `players_stats.csv` file in the same folder, then install
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow
 python Cheatsbegone.py
 
+```
 ## What's Next 
 
 Since my current approach relies on **supervised learning**, the model requires a dataset where players are already labeled as "banned" or "legitimate" to learn. This is great for historical analysis, but it can only catch cheaters who act like the ones we’ve already caught.
