@@ -25,4 +25,4 @@ Make sure you have the `players_stats.csv` file in the same folder, then install
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow
-python main.py
+python Cheatsbegone.py
